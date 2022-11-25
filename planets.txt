@@ -1,6 +1,8 @@
-Sun
 Mercury
 Venus
+<<<<<<< HEAD
 Earth
 Mars
 Jupiter
+=======
+>>>>>>> ab7b9238e380ea06625a9924bc4575e5a3e2e83e
